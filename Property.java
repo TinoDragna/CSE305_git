@@ -1,0 +1,37 @@
+public class Property {
+
+    String propertyID;
+    String description;
+    String propertyOwnerID;
+
+    public Property(String propertyID, String description, String propertyOwnerID) {
+        this.propertyID = propertyID;
+        this.description = description;
+        this.propertyOwnerID = propertyOwnerID;
+    }
+
+    public String getPropertyID() {
+        return propertyID;
+    }
+
+    public void setPropertyID(String propertyID) {
+        this.propertyID = propertyID;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public String getPropertyOwnerID() {
+        return propertyOwnerID;
+    }
+
+    public void setPropertyOwnerID(String propertyOwnerID) {
+        this.propertyOwnerID = propertyOwnerID;
+    }
+
+}
