@@ -9,6 +9,8 @@ public class Property {
         this.propertyOwnerId = propertyOwnerId;
     }
 
+    
+
     public String getPropertyId() {
         return propertyId;
     }

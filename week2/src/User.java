@@ -11,6 +11,14 @@ public class User {
         this.userType = userType;
     }
 
+    public void createUser(){
+
+    }
+
+    public void resetPassword(){
+
+    }
+
     public String getUserId() {
         return userId;
     }
