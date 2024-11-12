@@ -35,6 +35,7 @@ public class Permanent implements Contract{
         return this;
     }
 
+
     @Override
     public String toString() {
         return "Permanent{contractID=" + contractID + ", propertyID=" + propertyID +

@@ -1,4 +1,4 @@
-public class Client {
+public class ClientB1 {
     public void requestCreateRentalcontract(){
         
     }
