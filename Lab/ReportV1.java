@@ -1,5 +1,4 @@
 import java.util.List;
-import java.util.ArrayList;
 
 class Property {
     private String name;
@@ -71,7 +70,7 @@ class FinancialReport {
     }
 }
 
-public class ReportGenerator {
+public class ReportV1 {
     public static void main(String[] args) {
         Property property1 = new Property("Apartment A", 1500.0, "John Doe", "City Center");
         Property property2 = new Property("House B", 2000.0, "Jane Smith", "Suburb");

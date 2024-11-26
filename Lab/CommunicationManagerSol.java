@@ -27,14 +27,14 @@ class Message {
         return recipient;
     }
 
-    // Example of Long Method code smell
+    public void printSummary() {
+        System.out.printf("Content: %s%nSender: %s%nRecipient: %s%n", content, sender, recipient);
+    }
+
     public void printDetails() {
-        System.out.println("Content: " + content);
-        System.out.println("Sender: " + sender);
-        System.out.println("Recipient: " + recipient);
-        System.out.println("Content Length: " + content.length());
-        System.out.println("Sender Uppercase: " + sender.toUpperCase());
-        System.out.println("Recipient Lowercase: " + recipient.toLowerCase());
+        System.out.printf(
+                "Content: %s%nSender: %s%nRecipient: %s%nContent Length: %d%nSender Uppercase: %s%nRecipient Lowercase: %s%n",
+                content, sender, recipient, content.length(), sender.toUpperCase(), recipient.toLowerCase());
     }
 }
 
@@ -45,7 +45,6 @@ class MessagingService {
         this.inbox = new HashMap<>();
     }
 
-    // Example of Data Clumps code smell
     public void sendMessage(String content, String sender, String recipient) {
         Message message = new Message(content, sender, recipient);
         inbox.computeIfAbsent(message.getRecipient(), k -> new ArrayList<>()).add(message);
@@ -54,36 +53,33 @@ class MessagingService {
     public List<Message> getMessagesForRecipient(String recipient) {
         return inbox.getOrDefault(recipient, new ArrayList<>());
     }
-    
-    // Example of Inappropriate Intimacy and Feature Envy
+
     public void printAllMessages() {
         for (String recipient : inbox.keySet()) {
             List<Message> messages = inbox.get(recipient);
             for (Message message : messages) {
-                System.out.println("Recipient: " + message.getRecipient());
-                System.out.println("Sender: " + message.getSender());
-                System.out.println("Content: " + message.getContent());
+                System.out.printf("Recipient: %s%nSender: %s%nContent: %s%n", message.getRecipient(),
+                        message.getSender(), message.getContent());
             }
         }
     }
 }
 
-public class Main {
+public class CommunicationManagerSol {
     public static void main(String[] args) {
         MessagingService messagingService = new MessagingService();
 
-        // Example usage: sending messages
+        // sending messages
         messagingService.sendMessage("Hello, tenant!", "Property Manager", "Tenant A");
         messagingService.sendMessage("Important notice: Rent due next week.", "Property Owner", "Tenant A");
         messagingService.sendMessage("Maintenance request received.", "Tenant A", "Property Manager");
 
-        // Example usage: retrieving messages for a recipient
+        // retrieving messages for a recipient
         List<Message> tenantAMessages = messagingService.getMessagesForRecipient("Tenant A");
-        for (Message message : tenantAMessages) {
-            System.out.println("From: " + message.getSender() + ", Content: " + message.getContent());
-        }
+        tenantAMessages.forEach(
+                message -> System.out.printf("From: %s, Content: %s%n", message.getSender(), message.getContent()));
 
-        // Calling the new method to demonstrate code smells
+        // Calling the new method
         Message exampleMessage = new Message("Test", "Sender", "Recipient");
         exampleMessage.printDetails();
 

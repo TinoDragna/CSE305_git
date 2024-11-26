@@ -65,7 +65,7 @@ class MessagingService {
     }
 }
 
-public class Main {
+public class CommunicationManager_V1 {
     public static void main(String[] args) {
         MessagingService messagingService = new MessagingService();
 
