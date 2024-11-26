@@ -17,9 +17,7 @@ public class ConfidentialDocument extends Document {
 
     public void saveFile(String fileName, String content, SecretKey key) { 
         try { 
-            // Encrypt the content 
             String encryptedContent = encrypt(content, key); 
-            // Save the encrypted content to a .zip file 
             try (FileOutputStream fos = new FileOutputStream(fileName + "." + this.extension); 
             ZipOutputStream zos = new ZipOutputStream(fos)) { 
                 ZipEntry zipEntry = new ZipEntry(fileName + ".txt"); 

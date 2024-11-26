@@ -1,10 +1,10 @@
 public class Client {
-    public static void requestCreateRentalContract(ContractBuilder contract) { 
-            contract.buildContractID(2); 
-            contract.buildPropertyID(1); 
-            contract.buildTenantID(1); 
-            contract.buildRentAmount(12546); 
-            System.out.println(contract.signContract());
+    public static void requestCreateRentalContract(ContractBuilder contract, int contractID, int propertyID, int tenantID, double rentAmount) { 
+            contract.buildContractID(contractID); 
+            contract.buildPropertyID(propertyID); 
+            contract.buildTenantID(tenantID); 
+            contract.buildRentAmount(rentAmount); 
+            contract.signContract();
         }
         public static void main(String[] args) {
             Permanent permanentContract = new Permanent();
@@ -15,9 +15,13 @@ public class Client {
             System.out.println(permanentContract.signContract());
 
             LongTerm longTermContract = new LongTerm();
-            requestCreateRentalContract(longTermContract);
+            requestCreateRentalContract(longTermContract, 2, 1, 1, 123456);
 
             NormalDocument document = new NormalDocument();
-            document.buildDocument().saveFile("requestClientA", "normal content");
+            document.saveFile("requestClientA", permanentContract.toString());
+            document.buildDocument();
+
+            ConfidentialDocument document2 = new ConfidentialDocument();
+            document2.saveFile("requestClientB", longTermContract.toString(), null);
     }
 }

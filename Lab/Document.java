@@ -29,15 +29,4 @@ public abstract class Document {
     }
 
     public abstract Document buildDocument();
-
-    // public static void main(String[] args) throws Exception {
-    // SecretKey key;
-    // key = generateKey();
-    // String message = "I'm a customer";
-    // String encryptedMessage = encrypt(message, key);
-    // System.out.println("Encrypted Massage: " + encryptedMessage);
-
-    // String decryptedMessage = decrypt(encryptedMessage, key);
-    // System.out.println("Decrypted Message: " + decryptedMessage);
-    // }
 }
