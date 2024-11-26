@@ -4,6 +4,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
 import javax.crypto.Cipher;
+import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 
 public class ConfidentialDocument extends Document {
@@ -36,5 +37,11 @@ public class ConfidentialDocument extends Document {
         cipher.init(Cipher.ENCRYPT_MODE, key);
         byte[] cryptoBytes = cipher.doFinal(plainText.getBytes());
         return Base64.getEncoder().encodeToString(cryptoBytes);
+    }
+
+    public static SecretKey generateKey() throws Exception {
+        KeyGenerator keyGen = KeyGenerator.getInstance("AES");
+        keyGen.init(256);
+        return keyGen.generateKey();
     }
 }

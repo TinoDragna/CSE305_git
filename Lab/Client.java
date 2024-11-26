@@ -6,7 +6,7 @@ public class Client {
             contract.buildRentAmount(rentAmount); 
             contract.signContract();
         }
-        public static void main(String[] args) {
+        public static void main(String[] args) throws Exception {
             Permanent permanentContract = new Permanent();
             permanentContract.buildContractID(1);
             permanentContract.buildPropertyID(2);
@@ -22,6 +22,6 @@ public class Client {
             document.buildDocument();
 
             ConfidentialDocument document2 = new ConfidentialDocument();
-            document2.saveFile("requestClientB", longTermContract.toString(), null);
+            document2.saveFile("requestClientB", longTermContract.toString(), ConfidentialDocument.generateKey());
     }
 }
