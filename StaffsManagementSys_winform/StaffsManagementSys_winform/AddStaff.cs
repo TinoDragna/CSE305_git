@@ -68,41 +68,6 @@ namespace StaffsManagementSys_winform
             }
         }
 
-        //private void LoadAllStaff()
-        //{
-        //    string dbPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "staff_management.db");
-        //    string connectionString = $"Data Source={dbPath};Version=3;";
-
-        //    using (var connection = new SQLiteConnection(connectionString))
-        //    {
-        //        try
-        //        {
-        //            connection.Open();
-        //            string query = "SELECT * FROM Staff";
-        //            using (var command = new SQLiteCommand(query, connection))
-        //            {
-        //                using (var reader = command.ExecuteReader())
-        //                {
-        //                    dataGridViewStaff.Rows.Clear(); // Xóa dữ liệu cũ
-        //                    while (reader.Read())
-        //                    {
-        //                        int id = reader.GetInt32(0);
-        //                        string name = reader.GetString(1);
-        //                        string phone = reader.IsDBNull(2) ? "" : reader.GetString(2);
-        //                        string address = reader.IsDBNull(3) ? "" : reader.GetString(3);
-        //                        string note = reader.IsDBNull(4) ? "" : reader.GetString(4);
-        //                        dataGridViewStaff.Rows.Add(id, name, phone, address, note);
-        //                    }
-        //                }
-        //            }
-        //        }
-        //        catch (Exception ex)
-        //        {
-        //            MessageBox.Show($"Lỗi khi tải dữ liệu: {ex.Message}");
-        //        }
-        //    }
-        //}
-
         
     }
 }

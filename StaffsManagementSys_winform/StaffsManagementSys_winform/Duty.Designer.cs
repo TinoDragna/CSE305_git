@@ -42,13 +42,14 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.groupBoxDutyList = new System.Windows.Forms.GroupBox();
             this.button2 = new System.Windows.Forms.Button();
-            this.buttonSearch = new System.Windows.Forms.Button();
             this.textBox7 = new System.Windows.Forms.TextBox();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.button3 = new System.Windows.Forms.Button();
+            this.dataGridViewDutyList = new System.Windows.Forms.DataGridView();
             this.groupBox1.SuspendLayout();
-            this.groupBox2.SuspendLayout();
+            this.groupBoxDutyList.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewDutyList)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -193,20 +194,20 @@
             this.label1.TabIndex = 13;
             this.label1.Text = "Name";
             // 
-            // groupBox2
+            // groupBoxDutyList
             // 
-            this.groupBox2.BackColor = System.Drawing.SystemColors.Control;
-            this.groupBox2.Controls.Add(this.button2);
-            this.groupBox2.Controls.Add(this.buttonSearch);
-            this.groupBox2.Controls.Add(this.textBox7);
-            this.groupBox2.Controls.Add(this.listBox1);
-            this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.134328F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.groupBox2.Location = new System.Drawing.Point(420, 12);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(582, 516);
-            this.groupBox2.TabIndex = 17;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Duty list";
+            this.groupBoxDutyList.BackColor = System.Drawing.SystemColors.Control;
+            this.groupBoxDutyList.Controls.Add(this.dataGridViewDutyList);
+            this.groupBoxDutyList.Controls.Add(this.button3);
+            this.groupBoxDutyList.Controls.Add(this.button2);
+            this.groupBoxDutyList.Controls.Add(this.textBox7);
+            this.groupBoxDutyList.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.134328F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.groupBoxDutyList.Location = new System.Drawing.Point(420, 12);
+            this.groupBoxDutyList.Name = "groupBoxDutyList";
+            this.groupBoxDutyList.Size = new System.Drawing.Size(582, 516);
+            this.groupBoxDutyList.TabIndex = 17;
+            this.groupBoxDutyList.TabStop = false;
+            this.groupBoxDutyList.Text = "Duty list";
             // 
             // button2
             // 
@@ -219,15 +220,6 @@
             this.button2.Text = "Delete";
             this.button2.UseVisualStyleBackColor = false;
             // 
-            // buttonSearch
-            // 
-            this.buttonSearch.Location = new System.Drawing.Point(6, 31);
-            this.buttonSearch.Name = "buttonSearch";
-            this.buttonSearch.Size = new System.Drawing.Size(91, 36);
-            this.buttonSearch.TabIndex = 18;
-            this.buttonSearch.Text = "Search";
-            this.buttonSearch.UseVisualStyleBackColor = true;
-            // 
             // textBox7
             // 
             this.textBox7.Location = new System.Drawing.Point(103, 36);
@@ -235,14 +227,27 @@
             this.textBox7.Size = new System.Drawing.Size(276, 27);
             this.textBox7.TabIndex = 17;
             // 
-            // listBox1
+            // button3
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 16;
-            this.listBox1.Location = new System.Drawing.Point(6, 78);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(543, 324);
-            this.listBox1.TabIndex = 16;
+            this.button3.BackColor = System.Drawing.Color.Goldenrod;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.134328F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.button3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button3.Location = new System.Drawing.Point(6, 30);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(83, 39);
+            this.button3.TabIndex = 27;
+            this.button3.Text = "Search";
+            this.button3.UseVisualStyleBackColor = false;
+            // 
+            // dataGridViewDutyList
+            // 
+            this.dataGridViewDutyList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewDutyList.Location = new System.Drawing.Point(7, 78);
+            this.dataGridViewDutyList.Name = "dataGridViewDutyList";
+            this.dataGridViewDutyList.RowHeadersWidth = 57;
+            this.dataGridViewDutyList.RowTemplate.Height = 24;
+            this.dataGridViewDutyList.Size = new System.Drawing.Size(575, 324);
+            this.dataGridViewDutyList.TabIndex = 28;
             // 
             // Duty
             // 
@@ -250,14 +255,15 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.AliceBlue;
             this.ClientSize = new System.Drawing.Size(1014, 540);
-            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.groupBoxDutyList);
             this.Controls.Add(this.groupBox1);
             this.Name = "Duty";
             this.Text = "AssignDuty";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
+            this.groupBoxDutyList.ResumeLayout(false);
+            this.groupBoxDutyList.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewDutyList)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -278,10 +284,10 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.Button buttonSearch;
+        private System.Windows.Forms.GroupBox groupBoxDutyList;
         private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.DataGridView dataGridViewDutyList;
     }
 }

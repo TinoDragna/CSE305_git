@@ -40,6 +40,7 @@
             this.columnAddress = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.columnNote = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.buttonSearch = new System.Windows.Forms.Button();
+            this.ColumnStatus = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStaff)).BeginInit();
             this.SuspendLayout();
             // 
@@ -111,7 +112,8 @@
             this.columnName,
             this.columnPhone,
             this.columnAddress,
-            this.columnNote});
+            this.columnNote,
+            this.ColumnStatus});
             this.dataGridViewStaff.Location = new System.Drawing.Point(12, 46);
             this.dataGridViewStaff.Name = "dataGridViewStaff";
             this.dataGridViewStaff.RowHeadersWidth = 57;
@@ -167,6 +169,13 @@
             this.buttonSearch.UseVisualStyleBackColor = false;
             this.buttonSearch.Click += new System.EventHandler(this.buttonSearch_Click);
             // 
+            // ColumnStatus
+            // 
+            this.ColumnStatus.HeaderText = "Status";
+            this.ColumnStatus.MinimumWidth = 7;
+            this.ColumnStatus.Name = "ColumnStatus";
+            this.ColumnStatus.Width = 140;
+            // 
             // AllStaff
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -203,5 +212,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn columnAddress;
         private System.Windows.Forms.DataGridViewTextBoxColumn columnNote;
         private System.Windows.Forms.Button buttonSearch;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColumnStatus;
     }
 }
