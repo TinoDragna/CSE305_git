@@ -1,5 +1,4 @@
 import java.util.List;
-import java.util.ArrayList;
 
 class Property {
     private String name;
@@ -30,18 +29,30 @@ class Property {
         return location;
     }
 
+    // fix feature envy, long method, duplicate, (đưa các phương thức cần gọi thuộc tính của property về property - fix feature envy)
+    // Single Responsibility Principle (SRP)
+    public String getPropertyType() {
+        return rentAmount > 2000 ? "This is a premium property." : "This is a standard property.";
+    }
+
+    public double getYearlyRent() {
+        return rentAmount * 12;
+    }
+
     public void printPropertyDetails() {
         System.out.println("Property: " + name);
         System.out.println("Rent Amount: $" + rentAmount);
         System.out.println("Owner: " + ownerName);
         System.out.println("Location: " + location);
+        System.out.println(getPropertyType());
+        System.out.println("Yearly Rent: $" + getYearlyRent());
     }
 }
 
 class FinancialReport {
     private String reportTitle;
     private List<Property> properties;
-    private double totalRent;
+    // private double totalRent; -- fix Large Class  (Temporary Field and Long-Lived Variable)
 
     public FinancialReport(String reportTitle, List<Property> properties) {
         this.reportTitle = reportTitle;
@@ -49,21 +60,14 @@ class FinancialReport {
     }
 
     public void generateReport() {
-        totalRent = 0; 
+        double totalRent = 0; 
         System.out.println("Financial Report: " + reportTitle);
         System.out.println("----------------------------");
+
+        
         for (Property property : properties) {
             property.printPropertyDetails();
             totalRent += property.getRentAmount();
-
-            
-            if (property.getRentAmount() > 2000) {
-                System.out.println("This is a premium property.");
-            } else {
-                System.out.println("This is a standard property.");
-            }
-            double yearlyRent = property.getRentAmount() * 12; 
-            System.out.println("Yearly Rent: $" + yearlyRent);
             System.out.println("--------------------");
         }
 
@@ -71,7 +75,7 @@ class FinancialReport {
     }
 }
 
-public class ReportGenerator {
+public class ReportV1 {
     public static void main(String[] args) {
         Property property1 = new Property("Apartment A", 1500.0, "John Doe", "City Center");
         Property property2 = new Property("House B", 2000.0, "Jane Smith", "Suburb");
@@ -82,3 +86,5 @@ public class ReportGenerator {
 
     }
 }
+
+

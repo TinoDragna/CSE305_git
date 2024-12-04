@@ -3,10 +3,22 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+class Contact {
+    private final String name;
+
+    public Contact(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+}
+
 class Message {
     private final String content;
-    private final String sender;
-    private final String recipient;
+    private final String sender; // người gửi
+    private final String recipient; // người nhận
 
     public Message(String content, String sender, String recipient) {
         this.content = content;
@@ -29,13 +41,17 @@ class Message {
 		System.out.println("Sender: " + sender);
 		System.out.println("Recipient: " + recipient);
 	}
+
+    //fix Duplication
+    private String formatDetails() {
+        return String.format(
+            "Content Length: %d%nSender Uppercase: %s%nRecipient Lowercase: %s",
+            content.length(), sender.toUpperCase(), recipient.toLowerCase());
+    }
+
     public void printDetails() {
-        System.out.println("Content: " + content);
-        System.out.println("Sender: " + sender);
-        System.out.println("Recipient: " + recipient);
-        System.out.println("Content Length: " + content.length());
-        System.out.println("Sender Uppercase: " + sender.toUpperCase());
-        System.out.println("Recipient Lowercase: " + recipient.toLowerCase());
+        printSummary();
+        System.out.println(formatDetails());
     }
 }
 
@@ -57,15 +73,13 @@ class MessagingService {
         for (String recipient : inbox.keySet()) {
             List<Message> messages = inbox.get(recipient);
             for (Message message : messages) {
-                System.out.println("Recipient: " + message.getRecipient());
-                System.out.println("Sender: " + message.getSender());
-                System.out.println("Content: " + message.getContent());
+                message.printSummary();
             }
         }
     }
 }
 
-public class Main {
+public class CommunicationManager_V1 {
     public static void main(String[] args) {
         MessagingService messagingService = new MessagingService();
 
@@ -74,16 +88,21 @@ public class Main {
         messagingService.sendMessage("Important notice: Rent due next week.", "Property Owner", "Tenant A");
         messagingService.sendMessage("Maintenance request received.", "Tenant A", "Property Manager");
 
-        // retrieving messages for a recipient
+        // retrieving messages for a recipient - Lấy danh sách tin nhắn của một người nhận
         List<Message> tenantAMessages = messagingService.getMessagesForRecipient("Tenant A");
         for (Message message : tenantAMessages) {
             System.out.println("From: " + message.getSender() + ", Content: " + message.getContent());
         }
 
-        // Calling the new method
+        // Calling the new method - Kiểm tra chi tiết tin nhắn
         Message exampleMessage = new Message("Test", "Sender", "Recipient");
         exampleMessage.printDetails();
 
         messagingService.printAllMessages();
     }
 }
+
+
+
+
+
