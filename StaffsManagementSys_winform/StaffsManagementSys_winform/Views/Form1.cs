@@ -110,7 +110,7 @@ namespace StaffsManagementSys_winform
 
         private void buttonLogout_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide();
             ManagerLogin managerLogin = new ManagerLogin();
             managerLogin.Show();
         }
