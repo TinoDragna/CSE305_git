@@ -100,67 +100,72 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account.cs" />
-    <Compile Include="AddStaff.cs">
+    <Compile Include="Models\Account.cs" />
+    <Compile Include="Data\DatabaseInitializer.cs" />
+    <Compile Include="Views\AddStaff.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AddStaff.Designer.cs">
+    <Compile Include="Views\AddStaff.Designer.cs">
       <DependentUpon>AddStaff.cs</DependentUpon>
     </Compile>
-    <Compile Include="AllStaff.cs">
+    <Compile Include="Views\AllStaff.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AllStaff.Designer.cs">
+    <Compile Include="Views\AllStaff.Designer.cs">
       <DependentUpon>AllStaff.cs</DependentUpon>
     </Compile>
-    <Compile Include="Duty.cs">
+    <Compile Include="Controllers\LeaveRequestController.cs" />
+    <Compile Include="Controllers\StaffController.cs" />
+    <Compile Include="Views\Duty.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Duty.Designer.cs">
+    <Compile Include="Views\Duty.Designer.cs">
       <DependentUpon>Duty.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Views\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="Views\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="LeaveRequestManager.cs">
+    <Compile Include="Views\LeaveRequestManager.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LeaveRequestManager.Designer.cs">
+    <Compile Include="Views\LeaveRequestManager.Designer.cs">
       <DependentUpon>LeaveRequestManager.cs</DependentUpon>
     </Compile>
-    <Compile Include="ManagerLogin.cs">
+    <Compile Include="Views\ManagerLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ManagerLogin.Designer.cs">
+    <Compile Include="Views\ManagerLogin.Designer.cs">
       <DependentUpon>ManagerLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\LeaveRequest.cs" />
+    <Compile Include="Models\Staff.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Routine.cs">
+    <Compile Include="Views\Routine.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Routine.Designer.cs">
+    <Compile Include="Views\Routine.Designer.cs">
       <DependentUpon>Routine.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="AddStaff.resx">
+    <EmbeddedResource Include="Views\AddStaff.resx">
       <DependentUpon>AddStaff.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AllStaff.resx">
+    <EmbeddedResource Include="Views\AllStaff.resx">
       <DependentUpon>AllStaff.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Duty.resx">
+    <EmbeddedResource Include="Views\Duty.resx">
       <DependentUpon>Duty.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="Views\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="LeaveRequestManager.resx">
+    <EmbeddedResource Include="Views\LeaveRequestManager.resx">
       <DependentUpon>LeaveRequestManager.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ManagerLogin.resx">
+    <EmbeddedResource Include="Views\ManagerLogin.resx">
       <DependentUpon>ManagerLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -172,7 +177,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Routine.resx">
+    <EmbeddedResource Include="Views\Routine.resx">
       <DependentUpon>Routine.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
