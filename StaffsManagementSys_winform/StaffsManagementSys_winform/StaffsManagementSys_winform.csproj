@@ -138,7 +138,9 @@
     <Compile Include="Views\Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Login.Designer.cs" />
+    <Compile Include="Views\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\ManagerLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -152,7 +154,9 @@
     <Compile Include="Views\MenuStaff.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\MenuStaff.Designer.cs" />
+    <Compile Include="Views\MenuStaff.Designer.cs">
+      <DependentUpon>MenuStaff.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\Routine.cs">
       <SubType>Form</SubType>
     </Compile>
