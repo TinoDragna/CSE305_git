@@ -21,7 +21,7 @@ namespace StaffsManagementSys_winform
         private AddStaff addStaff;
         private Routine routine;
         private Duty duty;
-        private LeaveRequest leaveRequest;
+        private LeaveRequestManager leaveRequest;
         public Form1()
         {
             InitializeComponent();
@@ -46,7 +46,7 @@ namespace StaffsManagementSys_winform
             duty.FormBorderStyle = FormBorderStyle.None;
             duty.Dock = DockStyle.Fill;
 
-            leaveRequest = new LeaveRequest();
+            leaveRequest = new LeaveRequestManager();
             leaveRequest.TopLevel = false;
             leaveRequest.FormBorderStyle = FormBorderStyle.None;
             leaveRequest.Dock = DockStyle.Fill;
