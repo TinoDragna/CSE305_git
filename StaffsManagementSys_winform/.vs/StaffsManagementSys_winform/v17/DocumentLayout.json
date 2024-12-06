@@ -62,15 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -80,10 +76,14 @@
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\LeaveRequestManager.cs",
               "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\LeaveRequestManager.cs",
               "RelativeToolTip": "StaffsManagementSys_winform\\LeaveRequestManager.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIAzwBUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwBUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T03:03:04.323Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -106,8 +106,7 @@
               "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\LeaveRequestManager.cs [Design]",
               "RelativeToolTip": "StaffsManagementSys_winform\\LeaveRequestManager.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T08:11:16.448Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-04T08:11:16.448Z"
             },
             {
               "$type": "Document",
