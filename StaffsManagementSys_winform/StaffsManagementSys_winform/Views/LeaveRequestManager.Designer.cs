@@ -1,4 +1,4 @@
-﻿namespace StaffsManagementSys_winform
+﻿namespace StaffsManagementSys_winform.Views
 {
     partial class LeaveRequestManager
     {

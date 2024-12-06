@@ -8,14 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace StaffsManagementSys_winform
+namespace StaffsManagementSys_winform.Views
 {
     public partial class Routine : Form
     {
+
         public Routine()
         {
             InitializeComponent();
         }
+
 
         private void buttonMonday_Click(object sender, EventArgs e)
         {
