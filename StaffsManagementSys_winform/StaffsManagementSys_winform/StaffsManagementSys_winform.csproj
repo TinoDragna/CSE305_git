@@ -125,11 +125,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="LeaveRequest.cs">
+    <Compile Include="LeaveRequestManager.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LeaveRequest.Designer.cs">
-      <DependentUpon>LeaveRequest.cs</DependentUpon>
+    <Compile Include="LeaveRequestManager.Designer.cs">
+      <DependentUpon>LeaveRequestManager.cs</DependentUpon>
     </Compile>
     <Compile Include="ManagerLogin.cs">
       <SubType>Form</SubType>
@@ -157,8 +157,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="LeaveRequest.resx">
-      <DependentUpon>LeaveRequest.cs</DependentUpon>
+    <EmbeddedResource Include="LeaveRequestManager.resx">
+      <DependentUpon>LeaveRequestManager.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ManagerLogin.resx">
       <DependentUpon>ManagerLogin.cs</DependentUpon>

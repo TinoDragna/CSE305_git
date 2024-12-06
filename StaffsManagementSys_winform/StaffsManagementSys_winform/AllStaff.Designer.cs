@@ -39,8 +39,9 @@
             this.columnPhone = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.columnAddress = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.columnNote = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.buttonSearch = new System.Windows.Forms.Button();
             this.ColumnStatus = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.buttonSearch = new System.Windows.Forms.Button();
+            this.buttonUpdateStaffQuit = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStaff)).BeginInit();
             this.SuspendLayout();
             // 
@@ -96,7 +97,7 @@
             this.buttonDelete.BackColor = System.Drawing.Color.Firebrick;
             this.buttonDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.134328F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.buttonDelete.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.buttonDelete.Location = new System.Drawing.Point(460, 507);
+            this.buttonDelete.Location = new System.Drawing.Point(12, 507);
             this.buttonDelete.Name = "buttonDelete";
             this.buttonDelete.Size = new System.Drawing.Size(83, 39);
             this.buttonDelete.TabIndex = 6;
@@ -106,6 +107,7 @@
             // 
             // dataGridViewStaff
             // 
+            this.dataGridViewStaff.BackgroundColor = System.Drawing.Color.WhiteSmoke;
             this.dataGridViewStaff.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewStaff.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.columnId,
@@ -156,6 +158,13 @@
             this.columnNote.Name = "columnNote";
             this.columnNote.Width = 140;
             // 
+            // ColumnStatus
+            // 
+            this.ColumnStatus.HeaderText = "Status";
+            this.ColumnStatus.MinimumWidth = 7;
+            this.ColumnStatus.Name = "ColumnStatus";
+            this.ColumnStatus.Width = 140;
+            // 
             // buttonSearch
             // 
             this.buttonSearch.BackColor = System.Drawing.Color.Goldenrod;
@@ -169,12 +178,18 @@
             this.buttonSearch.UseVisualStyleBackColor = false;
             this.buttonSearch.Click += new System.EventHandler(this.buttonSearch_Click);
             // 
-            // ColumnStatus
+            // buttonUpdateStaffQuit
             // 
-            this.ColumnStatus.HeaderText = "Status";
-            this.ColumnStatus.MinimumWidth = 7;
-            this.ColumnStatus.Name = "ColumnStatus";
-            this.ColumnStatus.Width = 140;
+            this.buttonUpdateStaffQuit.BackColor = System.Drawing.Color.MediumPurple;
+            this.buttonUpdateStaffQuit.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.134328F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.buttonUpdateStaffQuit.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.buttonUpdateStaffQuit.Location = new System.Drawing.Point(762, 507);
+            this.buttonUpdateStaffQuit.Name = "buttonUpdateStaffQuit";
+            this.buttonUpdateStaffQuit.Size = new System.Drawing.Size(240, 39);
+            this.buttonUpdateStaffQuit.TabIndex = 9;
+            this.buttonUpdateStaffQuit.Text = "Update Staff Quit";
+            this.buttonUpdateStaffQuit.UseVisualStyleBackColor = false;
+            this.buttonUpdateStaffQuit.Click += new System.EventHandler(this.buttonUpdateStaffQuit_Click);
             // 
             // AllStaff
             // 
@@ -182,6 +197,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.AliceBlue;
             this.ClientSize = new System.Drawing.Size(1014, 540);
+            this.Controls.Add(this.buttonUpdateStaffQuit);
             this.Controls.Add(this.buttonSearch);
             this.Controls.Add(this.dataGridViewStaff);
             this.Controls.Add(this.buttonDelete);
@@ -213,5 +229,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn columnNote;
         private System.Windows.Forms.Button buttonSearch;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumnStatus;
+        private System.Windows.Forms.Button buttonUpdateStaffQuit;
     }
 }
