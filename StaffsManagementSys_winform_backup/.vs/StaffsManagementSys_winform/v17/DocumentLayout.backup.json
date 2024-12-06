@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Trang EIU\\OneDrive\\Desktop\\CSE_305\\StaffsManagementSys_winform_backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|c:\\users\\trang eiu\\onedrive\\desktop\\cse_305\\staffsmanagementsys_winform_backup\\staffsmanagementsys_winform\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|c:\\users\\trang eiu\\onedrive\\desktop\\cse_305\\staffsmanagementsys_winform_backup\\staffsmanagementsys_winform\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|C:\\Users\\Trang EIU\\OneDrive\\Desktop\\CSE_305\\StaffsManagementSys_winform_backup\\staffsmanagementsys_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\Trang EIU\\OneDrive\\Desktop\\CSE_305\\StaffsManagementSys_winform_backup\\StaffsManagementSys_winform\\AccountManager.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\Trang EIU\\OneDrive\\Desktop\\CSE_305\\StaffsManagementSys_winform_backup\\StaffsManagementSys_winform\\AccountManager.cs",
+              "RelativeToolTip": "StaffsManagementSys_winform\\AccountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:23:22.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trang EIU\\OneDrive\\Desktop\\CSE_305\\StaffsManagementSys_winform_backup\\StaffsManagementSys_winform\\Login.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Login.cs",
+              "ToolTip": "C:\\Users\\Trang EIU\\OneDrive\\Desktop\\CSE_305\\StaffsManagementSys_winform_backup\\StaffsManagementSys_winform\\Login.cs [Design]",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:39:56.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Trang EIU\\OneDrive\\Desktop\\CSE_305\\StaffsManagementSys_winform_backup\\StaffsManagementSys_winform\\Program.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Program.cs",
+              "ToolTip": "C:\\Users\\Trang EIU\\OneDrive\\Desktop\\CSE_305\\StaffsManagementSys_winform_backup\\StaffsManagementSys_winform\\Program.cs",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:02:05.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

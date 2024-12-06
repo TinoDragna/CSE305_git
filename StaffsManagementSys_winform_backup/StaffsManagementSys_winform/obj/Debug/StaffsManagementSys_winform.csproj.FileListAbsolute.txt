@@ -1,0 +1,198 @@
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.exe.config
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.exe
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.pdb
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Buffers.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Memory.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Buffers.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Memory.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.AssemblyReference.cache
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.AddStaff.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.AllStaff.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Duty.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Form1.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.LeaveRequest.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.ManagerLogin.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Properties.Resources.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Routine.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.GenerateResource.cache
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.CoreCompileInputs.cache
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsMa.F9C84264.Up2Date
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.exe
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.pdb
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.exe.config
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.exe
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.pdb
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Buffers.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.EF6.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.Linq.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Memory.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Numerics.Vectors.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.xml
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Buffers.xml
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.xml
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Memory.xml
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Numerics.Vectors.xml
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.AssemblyReference.cache
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.AddStaff.resources
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.AllStaff.resources
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Duty.resources
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Form1.resources
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.LeaveRequestManager.resources
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.ManagerLogin.resources
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Properties.Resources.resources
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Routine.resources
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.GenerateResource.cache
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.CoreCompileInputs.cache
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsMa.F9C84264.Up2Date
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.exe
+D:\CSE305\CSE305_git\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.pdb
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.exe.config
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.exe
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.pdb
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Google.Protobuf.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Buffers.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Memory.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\ZstdSharp.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Google.Protobuf.pdb
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Google.Protobuf.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Buffers.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Memory.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.AssemblyReference.cache
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.AddStaff.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.AllStaff.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Duty.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Form1.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.LeaveRequestManager.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.ManagerLogin.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Properties.Resources.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Routine.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.StaffLogin.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.GenerateResource.cache
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.CoreCompileInputs.cache
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsMa.F9C84264.Up2Date
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.exe
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.pdb
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Login.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.MenuStaff.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.exe.config
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.exe
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\StaffsManagementSys_winform.pdb
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\EntityFramework.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\Google.Protobuf.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Buffers.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Memory.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\ZstdSharp.dll
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\EntityFramework.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\Google.Protobuf.pdb
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\Google.Protobuf.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Buffers.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Data.SQLite.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Memory.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.AssemblyReference.cache
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.AddStaff.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.AllStaff.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Duty.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Form1.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.LeaveRequestManager.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Login.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.ManagerLogin.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.MenuStaff.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Properties.Resources.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.Routine.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.StaffLogin.resources
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.GenerateResource.cache
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.csproj.CoreCompileInputs.cache
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsMa.F9C84264.Up2Date
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.exe
+C:\Users\Trang EIU\OneDrive\Desktop\CSE_305\StaffsManagementSys_winform_backup\StaffsManagementSys_winform\obj\Debug\StaffsManagementSys_winform.pdb
