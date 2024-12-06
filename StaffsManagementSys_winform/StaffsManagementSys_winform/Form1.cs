@@ -107,7 +107,12 @@ namespace StaffsManagementSys_winform
             addStaff.Hide();
             routine.Hide();
         }
-        
 
+        private void buttonLogout_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            ManagerLogin managerLogin = new ManagerLogin();
+            managerLogin.Show();
+        }
     }
 }
