@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|d:\\cse305\\cse305_git\\staffsmanagementsys_winform\\staffsmanagementsys_winform\\leaverequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\leaverequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDB4C11F-E43F-4F40-8FB4-18ED799FC59B}|NewFolder1{CDB4C11F-E43F-4F40-8FB4-18ED799FC59B}|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB4C11F-E43F-4F40-8FB4-18ED799FC59B}|NewFolder1{CDB4C11F-E43F-4F40-8FB4-18ED799FC59B}|solutionrelative:StaffController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\allstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|d:\\cse305\\cse305_git\\staffsmanagementsys_winform\\staffsmanagementsys_winform\\allstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\allstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\leaverequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\leaverequestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffController.cs",
+              "RelativeDocumentMoniker": "StaffController.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffController.cs*",
+              "RelativeToolTip": "StaffController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:13:27.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -74,20 +91,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LeaveRequestManager.cs",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\LeaveRequestManager.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\LeaveRequestManager.cs",
               "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\LeaveRequestManager.cs",
               "RelativeToolTip": "StaffsManagementSys_winform\\LeaveRequestManager.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIAzwBUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwBUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:03:04.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T03:03:04.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AddStaff.cs",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\AddStaff.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\AddStaff.cs",
@@ -99,15 +115,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LeaveRequestManager.cs [Design]",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\LeaveRequestManager.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\LeaveRequestManager.cs",
               "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\LeaveRequestManager.cs [Design]",
               "RelativeToolTip": "StaffsManagementSys_winform\\LeaveRequestManager.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T08:11:16.448Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-04T08:11:16.448Z"
             },
             {
               "$type": "Document",
@@ -117,13 +132,14 @@
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\AllStaff.cs",
               "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\AllStaff.cs",
               "RelativeToolTip": "StaffsManagementSys_winform\\AllStaff.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:21:37.211Z"
+              "WhenOpened": "2024-12-04T15:21:37.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Program.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Program.cs",
@@ -135,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AllStaff.cs [Design]",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\AllStaff.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\AllStaff.cs",
@@ -146,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ManagerLogin.cs [Design]",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\ManagerLogin.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\ManagerLogin.cs",
@@ -157,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Account.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Account.cs",
@@ -169,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ManagerLogin.cs",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\ManagerLogin.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\ManagerLogin.cs",
@@ -181,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Form1.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Form1.cs",
@@ -193,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Form1.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Form1.cs",
@@ -204,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Duty.cs [Design]",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Duty.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Duty.cs",
@@ -215,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Routine.cs [Design]",
               "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Routine.cs",
               "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Routine.cs",
