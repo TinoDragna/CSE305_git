@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|d:\\cse305\\cse305_git\\staffsmanagementsys_winform\\staffsmanagementsys_winform\\views\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\views\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\views\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\views\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\models\\accountstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\models\\accountstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\views\\stafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\views\\stafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\views\\stafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\views\\stafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\views\\menustaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\views\\menustaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\views\\menustaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\views\\menustaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\staffsmanagementsys_winform\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D0F48F-3222-41C1-9EE4-C1ECA7B93E6F}|StaffsManagementSys_winform\\StaffsManagementSys_winform.csproj|solutionrelative:staffsmanagementsys_winform\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountStaff.cs",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Models\\AccountStaff.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Models\\AccountStaff.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Models\\AccountStaff.cs",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Models\\AccountStaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:03:30.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerLogin.cs [Design]",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Views\\ManagerLogin.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\ManagerLogin.cs [Design]",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Views\\ManagerLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:40:12.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerLogin.cs",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Views\\ManagerLogin.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\ManagerLogin.cs",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Views\\ManagerLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:40:29.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffLogin.cs [Design]",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\StaffLogin.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Views\\StaffLogin.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\StaffLogin.cs [Design]",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Views\\StaffLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:44:46.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuStaff.cs [Design]",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\MenuStaff.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Views\\MenuStaff.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\MenuStaff.cs [Design]",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Views\\MenuStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:48:07.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffLogin.cs",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\StaffLogin.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Views\\StaffLogin.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\StaffLogin.cs",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Views\\StaffLogin.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:45:47.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Program.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Program.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Program.cs",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:02:05.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuStaff.cs",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\MenuStaff.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Views\\MenuStaff.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\MenuStaff.cs",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Views\\MenuStaff.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAywCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:49:10.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Views\\Login.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\Login.cs",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Views\\Login.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:42:31.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "StaffsManagementSys_winform\\Views\\Login.cs",
+              "ToolTip": "D:\\CSE305\\CSE305_git\\StaffsManagementSys_winform\\StaffsManagementSys_winform\\Views\\Login.cs [Design]",
+              "RelativeToolTip": "StaffsManagementSys_winform\\Views\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:41:49.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

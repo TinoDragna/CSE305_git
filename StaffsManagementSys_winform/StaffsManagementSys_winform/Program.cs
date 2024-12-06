@@ -5,6 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using StaffsManagementSys_winform.Data;
+using StaffsManagementSys_winform.Demo;
+using StaffsManagementSys_winform.Demo_console;
+using StaffsManagementSys_winform.Views;
 
 namespace StaffsManagementSys_winform
 {
@@ -15,8 +18,13 @@ namespace StaffsManagementSys_winform
         /// </summary>
         [STAThread]
         static void Main()
-        { 
-            
+        {
+            //RoutineDemo.RunDemo();
+            //DutyDemo.RunDemo();
+            //LeaveRequestDemo.RunDemo();
+
+            //Console.WriteLine();
+
             DatabaseInitializer.DropStaffTable();
             DatabaseInitializer.DropLeaveRequestTable();
 
@@ -28,7 +36,7 @@ namespace StaffsManagementSys_winform
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ManagerLogin());
+            Application.Run(new Login());
         }
     }
 }

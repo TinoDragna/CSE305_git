@@ -12,7 +12,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms.VisualStyles;
 
-namespace StaffsManagementSys_winform
+namespace StaffsManagementSys_winform.Views
 {
     public partial class LeaveRequestManager : Form
     {

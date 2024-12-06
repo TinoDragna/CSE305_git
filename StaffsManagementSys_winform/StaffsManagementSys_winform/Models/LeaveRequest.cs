@@ -13,6 +13,16 @@ namespace StaffsManagementSys_winform.Models
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public string Reason { get; set; }
-        public string Status { get; set; } // Pending, Approved, Declined
+        public string Status { get; set; } // Pending, Accepted, Denied
+
+        public void Accept()
+        {
+            Status = "Accepted";
+        }
+
+        public void Deny()
+        {
+            Status = "Denied";
+        }
     }
 }

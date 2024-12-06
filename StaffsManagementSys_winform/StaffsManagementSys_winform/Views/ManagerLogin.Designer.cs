@@ -1,4 +1,4 @@
-﻿namespace StaffsManagementSys_winform
+﻿namespace StaffsManagementSys_winform.Views
 {
     partial class ManagerLogin
     {
@@ -33,7 +33,7 @@
             this.txtUsername = new System.Windows.Forms.TextBox();
             this.txtPw = new System.Windows.Forms.TextBox();
             this.btnLogin = new System.Windows.Forms.Button();
-            this.btnCancel = new System.Windows.Forms.Button();
+            this.btnBack = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -79,22 +79,22 @@
             this.btnLogin.UseVisualStyleBackColor = true;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
-            // btnCancel
+            // btnBack
             // 
-            this.btnCancel.Location = new System.Drawing.Point(268, 224);
-            this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(94, 35);
-            this.btnCancel.TabIndex = 6;
-            this.btnCancel.Text = "Cancel";
-            this.btnCancel.UseVisualStyleBackColor = true;
-            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
+            this.btnBack.Location = new System.Drawing.Point(268, 224);
+            this.btnBack.Name = "btnBack";
+            this.btnBack.Size = new System.Drawing.Size(94, 35);
+            this.btnBack.TabIndex = 6;
+            this.btnBack.Text = "Back";
+            this.btnBack.UseVisualStyleBackColor = true;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
             // ManagerLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(440, 292);
-            this.Controls.Add(this.btnCancel);
+            this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.txtPw);
             this.Controls.Add(this.txtUsername);
@@ -115,6 +115,6 @@
         private System.Windows.Forms.TextBox txtUsername;
         private System.Windows.Forms.TextBox txtPw;
         private System.Windows.Forms.Button btnLogin;
-        private System.Windows.Forms.Button btnCancel;
+        private System.Windows.Forms.Button btnBack;
     }
 }

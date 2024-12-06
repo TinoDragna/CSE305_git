@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace StaffsManagementSys_winform
+namespace StaffsManagementSys_winform.Views
 {
     public partial class Duty : Form
     {
@@ -16,6 +16,7 @@ namespace StaffsManagementSys_winform
         {
             InitializeComponent();
         }
+
 
         private void buttonAdd_Click(object sender, EventArgs e)
         {

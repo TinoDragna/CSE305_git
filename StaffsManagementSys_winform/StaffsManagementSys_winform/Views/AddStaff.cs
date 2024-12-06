@@ -13,7 +13,7 @@ using System.Xml.Linq;
 using StaffsManagementSys_winform.Controllers;
 using StaffsManagementSys_winform.Models;
 
-namespace StaffsManagementSys_winform
+namespace StaffsManagementSys_winform.Views
 {
     public partial class AddStaff : Form
     {

@@ -8,8 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using StaffsManagementSys_winform.Models;
+using StaffsManagementSys_winform.Views;
 
-namespace StaffsManagementSys_winform
+namespace StaffsManagementSys_winform.Views
 {
     public partial class ManagerLogin : Form
     {
@@ -23,7 +24,7 @@ namespace StaffsManagementSys_winform
             String account = txtUsername.Text;
             String password = txtPw.Text;
 
-            if (Account.compareAccount(account, password))
+            if (AccountManager.compareAccount(account, password))
             {
                 this.Hide();
                 Form1 form1 = new Form1();
@@ -35,7 +36,14 @@ namespace StaffsManagementSys_winform
             }
         }
 
-        private void btnCancel_Click(object sender, EventArgs e)
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.Show();
+        }
+
+        private void ManagerLogin_FormClosing(object sender, FormClosingEventArgs e)
         {
             Application.Exit();
         }

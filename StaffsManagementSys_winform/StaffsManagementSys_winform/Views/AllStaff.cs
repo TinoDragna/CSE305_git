@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using StaffsManagementSys_winform.Controllers;
 
-namespace StaffsManagementSys_winform
+namespace StaffsManagementSys_winform.Views
 {
     public partial class AllStaff : Form
     {
