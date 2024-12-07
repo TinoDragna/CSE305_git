@@ -108,6 +108,7 @@
             this.Controls.Add(this.btnRoutine);
             this.Controls.Add(this.btnDuty);
             this.Name = "MenuStaff";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MenuStaff";
             this.ResumeLayout(false);
 

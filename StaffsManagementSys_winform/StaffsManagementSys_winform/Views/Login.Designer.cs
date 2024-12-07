@@ -36,7 +36,7 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(480, 236);
+            this.btnExit.Location = new System.Drawing.Point(434, 114);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(84, 48);
             this.btnExit.TabIndex = 7;
@@ -46,7 +46,7 @@
             // 
             // btnStaff
             // 
-            this.btnStaff.Location = new System.Drawing.Point(319, 236);
+            this.btnStaff.Location = new System.Drawing.Point(273, 114);
             this.btnStaff.Name = "btnStaff";
             this.btnStaff.Size = new System.Drawing.Size(97, 48);
             this.btnStaff.TabIndex = 6;
@@ -56,7 +56,7 @@
             // 
             // btnManager
             // 
-            this.btnManager.Location = new System.Drawing.Point(142, 236);
+            this.btnManager.Location = new System.Drawing.Point(96, 114);
             this.btnManager.Name = "btnManager";
             this.btnManager.Size = new System.Drawing.Size(98, 48);
             this.btnManager.TabIndex = 5;
@@ -68,7 +68,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(117, 166);
+            this.label1.Location = new System.Drawing.Point(39, 45);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(566, 35);
             this.label1.TabIndex = 4;
@@ -78,13 +78,15 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(631, 223);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnStaff);
             this.Controls.Add(this.btnManager);
             this.Controls.Add(this.label1);
             this.Name = "Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

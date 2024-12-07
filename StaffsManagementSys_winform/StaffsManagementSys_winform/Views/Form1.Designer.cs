@@ -149,6 +149,7 @@
             this.Controls.Add(this.groupBoxMenu);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Staff Management System";
             this.groupBoxMenu.ResumeLayout(false);
             this.ResumeLayout(false);
